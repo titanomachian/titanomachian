@@ -12,6 +12,4 @@
 - computer science;
 - the more arcane, the better 🪄
 > 💮 I’m currently learning ...
-- lots of stuff, nothing really concise
-- C, COBOL and Prolog are kinda cool
-- I'm not in a hurry, I'm just enjoying the ride 🌊
+- Z80 assembly for MSX computers
