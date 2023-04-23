@@ -1,5 +1,5 @@
 > short bio:
-I'm just an amateur. I don't know much, but, in due time, I'll share whatever I come up with - probably something related to retrocomputation. 
+- I'm just an amateur. I don't know much, but, in due time, I'll share whatever I come up with - probably something related to retrocomputation. 
 
 > 💮 I’m currently studying:
 - Z80 assembly for MSX computers
