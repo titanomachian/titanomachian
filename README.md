@@ -13,3 +13,9 @@
 - the more arcane, the better 🪄
 > 💮 I’m currently learning ...
 - Z80 assembly for MSX computers
+- MSX BASIC, SmileBASIC
+- Electronic circuits, Verilog
+> ⚜ I have some knowledge of...
+- C, Python
+- Shell script (GNU/Linux, BSD)
+- MS-DOS & MSX-DOS internal commands
